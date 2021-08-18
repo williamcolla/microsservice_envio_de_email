@@ -1,4 +1,4 @@
-package com.ms.emal.dtos;
+package com.ms.email.dtos;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.ms.emal.enums;
+package com.ms.email.enums;
 
 public enum StatusEmail {
 

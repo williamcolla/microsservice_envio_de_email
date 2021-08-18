@@ -1,8 +1,8 @@
-package com.ms.emal.services;
+package com.ms.email.services;
 
-import com.ms.emal.enums.StatusEmail;
-import com.ms.emal.models.EmailModel;
-import com.ms.emal.repositories.EmailRepository;
+import com.ms.email.enums.StatusEmail;
+import com.ms.email.models.EmailModel;
+import com.ms.email.repositories.EmailRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;
